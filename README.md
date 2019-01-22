@@ -10,3 +10,5 @@ tripadvisor_crawl.py根据酒店链接的txt，爬取详细内容，存入csv文
 爬取完成的csv示例见Four_Corners_Florida.csv
 
 程序支持断点续传
+
+程序截止2019年01月22日有效
